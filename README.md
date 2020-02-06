@@ -1,5 +1,5 @@
 # test-repo
-this is some other edit
+edited master branch
 This word is in *italics*.
 This word is **Bold**.
 
